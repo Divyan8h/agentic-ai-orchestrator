@@ -54,4 +54,12 @@ Final Response
 
 4. Run the main script
 
-<img width="1261" height="292" alt="project1 7" src="https://github.com/user-attachments/assets/0652bea5-c3fd-4b7b-84f0-fc09cbbdfe4f" />
+<img width="1918" height="907" alt="Project1 1" src="https://github.com/user-attachments/assets/96604ee5-9ab2-4bf7-9c51-71ae2e5c22bc" />
+<img width="1918" height="727" alt="project1 2" src="https://github.com/user-attachments/assets/24bd5e43-5fbf-427b-933b-32058dc2fc3c" />
+<img width="1918" height="861" alt="project1 3" src="https://github.com/user-attachments/assets/7794641b-1cc2-437f-9a73-fb87a5e395a5" />
+<img width="1918" height="752" alt="project1 4" src="https://github.com/user-attachments/assets/3a5640d1-eee2-4ccf-b972-47895f633d69" />
+<img width="1918" height="541" alt="project1 5" src="https://github.com/user-attachments/assets/50aeffa9-85f6-415a-9577-88701fcc7383" />
+
+
+
+
