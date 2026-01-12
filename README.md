@@ -51,4 +51,7 @@ Final Response
 2. Create a `.env` file with your OpenAI/Gemini key
 3. Install dependencies:
    pip install -r requirements.txt
+
 4. Run the main script
+
+<img width="1261" height="292" alt="project1 7" src="https://github.com/user-attachments/assets/0652bea5-c3fd-4b7b-84f0-fc09cbbdfe4f" />
